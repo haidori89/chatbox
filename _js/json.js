@@ -1,0 +1,1 @@
+var tamplate_ar = ["yes","no","hello","i dont understand your question","sure","i will check it for you","try later im sleeping now"];
